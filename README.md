@@ -24,7 +24,7 @@ Number of topic pairs for each data split:
 If you use the dataset in your work please cite with the following
 
 ```
-@inproceedings{gelderloos-etal-2020-learning,
+@inproceedings{sevegnani-etal-2020-otters,
     title = "OTTers: One-turn Topic Transitions for Open-Domain Dialogue",
     author = "Sevegnani, Karin  and
       Howcroft, David M.  and
