@@ -50,7 +50,7 @@ python3 main.py \
 --seed 42 \
 --evaluate_metrics bleu \
 --overwrite_output_dir \
---num_train_epochs 25 \
+--num_train_epochs 3 \
 --learning_rate 3e-5 \
 --aggregate_method max \
 --alpha 3 \
