@@ -1,4 +1,4 @@
-# OTTers 🦦: One-turn Topic Transitions for Open-Domain Dialogue
+# 🦦 OTTers: One-turn Topic Transitions for Open-Domain Dialogue
 
 > Data analysis scripts coming soon!
 
