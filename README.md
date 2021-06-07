@@ -1,6 +1,6 @@
 # 🦦 OTTers: One-turn Topic Transitions for Open-Domain Dialogue
 
-> Data analysis scripts coming soon!
+Explanation of data collection, data splits, and experiments can be found [here](https://arxiv.org/abs/2105.13710).
 
 ## Data
 You can download the data already divided in the two `in-domain` and `out-of-domain` splits.
